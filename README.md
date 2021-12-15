@@ -1,4 +1,4 @@
-# Online Appendix of the paper Crowding type and price dynamics in tourism destination choice
+# Online Appendix of the paper "Crowding type and price dynamics in tourism destination choice"
 
 In this online appendix you can find two type of material:
 
